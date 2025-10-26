@@ -1,0 +1,396 @@
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=10&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:00-6.328&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:00-6.329&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:00-6.332&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:00-6.336&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:00-6.338&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:00-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:00-9.2&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:01-6.163&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:03-6.33&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:03-6.75&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:04-6.316&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:04-6.317&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:04-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:04-9.2&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:04-9.3&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:05-6.512&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:06-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:07-6.102&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:07-6.97&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:07-6.98&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:07-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:07-9.2&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:07-9.3&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:08-6.106&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:08-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:09-6.105&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:12-6.133&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:12-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:12-9.2&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:14-6.161&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:14-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:16-6.131&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:16-6.132&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:16-6.173&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:16-6.175&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:16-6.177&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:16-6.178&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:16-6.179&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:16-6.180&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:16-6.181&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:16-6.63&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:16-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:17-6.49&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:17-6.81&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:18-6.231&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:18-6.248&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:18-6.327,&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:18-6.170&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:18-6.34&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:19-6.87&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:19-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:20-6.60&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:21-6.271&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:21-6.272&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: The read operation timed out
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:21-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:21-9.2&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:22-6.162&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:22-6.163&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:22-6.164&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:22-6.166&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:22-6.167&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:22-6.168&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:22-6.169&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:22-6.173&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: The read operation timed out
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:22-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:22-9.2&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:22-9.3&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:24-6.132&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:24-6.175,&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:24-6.83,&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:24-6.166,&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:24-6.87,&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:24-6.259,&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:24-6.352&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:24-6.351&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:24-6.409&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:24-6.427&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:24-6.430&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:24-6.433&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:24-6.447&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:24-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:25-6.131&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:25-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:26-6.52&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:26-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:27-6.12&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:28-6.185&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:28-6.186&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:28-6.4&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:28-6.42,58:28-6.114&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:29-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:29-9.2&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:29-9.3&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:29-9.4.&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:29-9.5.&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:32-6.95&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:34-6.38,&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=5&query=58:34-6.65&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=10&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:00-6.328&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: The read operation timed out
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:00-6.329&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:00-6.332&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:00-6.336&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:00-6.338&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:00-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:00-9.2&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:01-6.163&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:03-6.33&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:03-6.75&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:04-6.316&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:04-6.317&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:04-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:04-9.2&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: The read operation timed out
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:04-9.3&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:05-6.512&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:06-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:07-6.102&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:07-6.97&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:07-6.98&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:07-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:07-9.2&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:07-9.3&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:08-6.106&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:08-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:09-6.105&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:12-6.133&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:12-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:12-9.2&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:14-6.161&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:14-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:16-6.131&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:16-6.132&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:16-6.173&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:16-6.175&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:16-6.177&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:16-6.178&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:16-6.179&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:16-6.180&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:16-6.181&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:16-6.63&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:16-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:17-6.49&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:17-6.81&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:18-6.231&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:18-6.248&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:18-6.327,&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:18-6.170&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:18-6.34&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:19-6.87&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:19-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:20-6.60&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:21-6.271&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:21-6.272&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:21-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: The read operation timed out
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:21-9.2&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:22-6.162&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:22-6.163&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:22-6.164&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:22-6.166&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:22-6.167&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:22-6.168&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:22-6.169&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:22-6.173&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:22-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:22-9.2&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:22-9.3&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:24-6.132&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:24-6.175,&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:24-6.83,&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:24-6.166,&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:24-6.87,&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:24-6.259,&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: The read operation timed out
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:24-6.352&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: The read operation timed out
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:24-6.351&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:24-6.409&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:24-6.427&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:24-6.430&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:24-6.433&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:24-6.447&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:24-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:25-6.131&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:25-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:26-6.52&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:26-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:27-6.12&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:28-6.185&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:28-6.186&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:28-6.4&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:28-6.42,58:28-6.114&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:29-9.1&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:29-9.2&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:29-9.3&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:29-9.4.&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:29-9.5.&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:32-6.95&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:34-6.38,&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
+DEBUG:rosreestr2coord.logger:Request URL: https://nspd.gov.ru/api/geoportal/v2/search/geoportal?thematicSearchId=1&query=58:34-6.65&CRS=EPSG:4326
+ERROR:rosreestr2coord.logger:Request failed: HTTP 403 Forbidden: Forbidden
